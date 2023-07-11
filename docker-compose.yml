@@ -26,6 +26,6 @@ services:
       - challenge-network
 
 networks:
-  sgbdr-network:
+  challenge-network:
     driver: bridge
     name: challenge-network
